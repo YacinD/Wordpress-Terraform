@@ -89,4 +89,4 @@ terraform destroy
 
 ## 🔐 Security
 
-Sensitive variables such as the database password and Terraform state files are excluded from Git using `.gitignore`
+Sensitive variables such as the database password and Terraform state files are excluded from Git using `.gitignore`.
