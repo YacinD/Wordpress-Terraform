@@ -90,5 +90,3 @@ terraform destroy
 ## 🔐 Security
 
 Sensitive variables such as the database password and Terraform state files are excluded from Git using `.gitignore`.
-
-> This project is intended as a learning assignment and is not configured as a production-ready WordPress deployment.
